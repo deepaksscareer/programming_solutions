@@ -1,8 +1,7 @@
 # Main class
 # Testing scenarios
-import pytest
 
-from src.main.stack_medium_question.balanced_parantheses.balanced_parantheses_check import CheckBalancedParan
+from src.main.stack.stack_medium_question.balanced_parantheses import CheckBalancedParan
 
 def test_empty_parantheses_check():
     # TODO document why this method is empty
