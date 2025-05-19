@@ -1,0 +1,1 @@
+in python pytest suite -> Log statements are hidden 
